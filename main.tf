@@ -40,6 +40,6 @@ provider "aws" {
 
 resource "aws_s3_bucket" "demo" {
 
-  bucket = "tfc-cli-demo-amit-bucket-113"
+  bucket = "tfc-cli-demo-amit-bucket-115"
 
 }
